@@ -1,0 +1,170 @@
+[
+  {
+    "ward_id": "A",
+    "name": "Colaba",
+    "population": 185014,
+    "lat": 18.919297,
+    "lon": 72.82707
+  },
+  {
+    "ward_id": "B",
+    "name": "Sandhurst Road",
+    "population": 127290,
+    "lat": 18.957137,
+    "lon": 72.839822
+  },
+  {
+    "ward_id": "C",
+    "name": "Marine Lines",
+    "population": 166161,
+    "lat": 18.951084,
+    "lon": 72.82726
+  },
+  {
+    "ward_id": "D",
+    "name": "Grant Road",
+    "population": 346866,
+    "lat": 18.95796,
+    "lon": 72.811277
+  },
+  {
+    "ward_id": "E",
+    "name": "Byculla",
+    "population": 393286,
+    "lat": 18.973061,
+    "lon": 72.843847
+  },
+  {
+    "ward_id": "G/S",
+    "name": "Elphinstone",
+    "population": 377749,
+    "lat": 18.997572,
+    "lon": 72.820551
+  },
+  {
+    "ward_id": "F/S",
+    "name": "Parel",
+    "population": 360972,
+    "lat": 18.998166,
+    "lon": 72.854282
+  },
+  {
+    "ward_id": "G/N",
+    "name": "Dadar Plaza",
+    "population": 599039,
+    "lat": 19.03056,
+    "lon": 72.843968
+  },
+  {
+    "ward_id": "F/N",
+    "name": "Matunga",
+    "population": 529034,
+    "lat": 19.03156,
+    "lon": 72.870632
+  },
+  {
+    "ward_id": "H/W",
+    "name": "Bandra\r",
+    "population": 307581,
+    "lat": 19.064585,
+    "lon": 72.831968
+  },
+  {
+    "ward_id": "M/W",
+    "name": "Chembur(west)",
+    "population": 411893,
+    "lat": 19.036932,
+    "lon": 72.889456
+  },
+  {
+    "ward_id": "H/E",
+    "name": "Khar/Santacruz\r",
+    "population": 557239,
+    "lat": 19.077906,
+    "lon": 72.859472
+  },
+  {
+    "ward_id": "L",
+    "name": "Kurla",
+    "population": 902225,
+    "lat": 19.08792,
+    "lon": 72.88545
+  },
+  {
+    "ward_id": "N",
+    "name": "Ghatkopar",
+    "population": 622853,
+    "lat": 19.086685,
+    "lon": 72.922019
+  },
+  {
+    "ward_id": "M/E",
+    "name": "Chembur\r",
+    "population": 807720,
+    "lat": 19.044089,
+    "lon": 72.923796
+  },
+  {
+    "ward_id": "K/W",
+    "name": "Andheri (West)",
+    "population": 748688,
+    "lat": 19.130389,
+    "lon": 72.815548
+  },
+  {
+    "ward_id": "K/E",
+    "name": "Andheri (East)\r",
+    "population": 823885,
+    "lat": 19.112117,
+    "lon": 72.869355
+  },
+  {
+    "ward_id": "S",
+    "name": "Bhandup\r",
+    "population": 743783,
+    "lat": 19.132602,
+    "lon": 72.923525
+  },
+  {
+    "ward_id": "P/S",
+    "name": "Goregaon\r",
+    "population": 463507,
+    "lat": 19.157497,
+    "lon": 72.858467
+  },
+  {
+    "ward_id": "P/N",
+    "name": "Malad\r",
+    "population": 941366,
+    "lat": 19.185233,
+    "lon": 72.830358
+  },
+  {
+    "ward_id": "T",
+    "name": "Mulund",
+    "population": 341463,
+    "lat": 19.166629,
+    "lon": 72.936514
+  },
+  {
+    "ward_id": "R/S",
+    "name": "Kandivali\r",
+    "population": 691229,
+    "lat": 19.199735,
+    "lon": 72.856016
+  },
+  {
+    "ward_id": "R/C",
+    "name": "Borivali\r",
+    "population": 562162,
+    "lat": 19.233612,
+    "lon": 72.831632
+  },
+  {
+    "ward_id": "R/N",
+    "name": "Dahisar\r",
+    "population": 431368,
+    "lat": 19.256806,
+    "lon": 72.865757
+  }
+]

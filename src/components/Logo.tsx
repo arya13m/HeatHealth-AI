@@ -1,0 +1,2 @@
+import { Leaf } from 'lucide-react';
+export function Logo({dark=false}:{dark?:boolean}){return <div className="flex items-center gap-2"><span className={`grid h-10 w-10 place-items-center rounded-2xl ${dark?'bg-white text-forest':'bg-forest text-lime'}`}><Leaf size={21}/></span><span className={`display text-lg font-bold ${dark?'text-white':'text-forest'}`}>HeatHealth<span className={dark?'text-lime':'text-green-600'}> AI</span></span></div>}

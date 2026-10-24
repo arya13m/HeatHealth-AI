@@ -1,0 +1,57 @@
+{
+  "model_name": "HeatHealth personalized heat-risk demonstrator",
+  "model_type": "standardized logistic regression",
+  "training_data": "synthetic; 12,000 generated records; labels derived from a heuristic, not clinical outcomes",
+  "features": [
+    "apparent_temp_c",
+    "relative_humidity_pct",
+    "age_years",
+    "outdoor_exposure_hours",
+    "exertion_level",
+    "hydration_gap_l",
+    "symptom_count",
+    "cooling_access",
+    "chronic_risk_flag"
+  ],
+  "means": [
+    33.98309686768051,
+    67.97969454669052,
+    54.043958333333336,
+    2.4734651310484876,
+    1.48375,
+    0.6384029810146259,
+    0.60625,
+    0.6835416666666667,
+    0.218125
+  ],
+  "scales": [
+    6.824442585898748,
+    15.678220919703165,
+    21.10992916453291,
+    1.8225932879199525,
+    1.1213582259177186,
+    0.48391994234546387,
+    0.7855216552287616,
+    0.4650940298447425,
+    0.41297274047447735
+  ],
+  "coefficients": [
+    0.556096383874767,
+    0.18951082224436933,
+    0.2134147156944608,
+    0.25448600094630247,
+    0.18278759506650305,
+    0.2041893692734112,
+    0.24838536100629727,
+    -0.2398630860445107,
+    0.2733672554192139
+  ],
+  "intercept": -0.10582629198772188,
+  "synthetic_holdout_metrics_not_clinical": {
+    "n_test": 2400,
+    "roc_auc": 0.7286696253580582,
+    "accuracy_at_0_5": 0.665,
+    "brier_score": 0.21329704758252807
+  },
+  "intended_use": "engineering demonstration only; do not use for diagnosis, triage or autonomous public-health decisions"
+}

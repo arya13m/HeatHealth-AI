@@ -1,0 +1,5 @@
+'use client';
+import {useEffect} from 'react';
+import Link from 'next/link';
+import {RefreshCw,ArrowLeft,TriangleAlert} from 'lucide-react';
+export default function Error({reset}:{error:Error & {digest?:string};reset:()=>void}){useEffect(()=>{},[]);return <main className="grid min-h-screen place-items-center bg-[#f5f6ef] p-6"><div className="card w-full max-w-lg p-8 text-center"><span className="mx-auto grid h-14 w-14 place-items-center rounded-2xl bg-orange-100 text-orange-600"><TriangleAlert/></span><p className="mt-5 text-xs font-bold uppercase tracking-[.18em] text-orange-600">Workspace error</p><h1 className="display mt-2 text-3xl font-bold text-forest">This screen hit a snag.</h1><p className="mt-3 text-sm leading-6 text-slate-500">The application caught the error instead of leaving a broken blank screen. Retry the page, or return to the workspace selector.</p><div className="mt-6 flex flex-wrap justify-center gap-2"><button onClick={()=>reset()} className="btn btn-dark"><RefreshCw size={16}/> Retry</button><Link href="/login" className="btn btn-light"><ArrowLeft size={16}/> Workspace selector</Link></div></div></main>}

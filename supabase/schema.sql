@@ -1,0 +1,2 @@
+-- Canonical initial schema and RLS policies are in migrations/001_heathealth_schema.sql.
+-- Apply that migration through Supabase SQL Editor after reviewing the existing project schema.

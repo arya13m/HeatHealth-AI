@@ -1,0 +1,95 @@
+{
+  "source": "NASA POWER daily MERRA-2 regional grid",
+  "coordinates": {
+    "lat": 19.076,
+    "lon": 72.8777
+  },
+  "period": "2015-01-01 to 2025-12-31",
+  "resolution": "0.5 x 0.625 degree regional grid",
+  "months": [
+    {
+      "month": 1,
+      "mean_daily_max_c": 31.6,
+      "p90_daily_max_c": 34.6,
+      "mean_relative_humidity_pct": 54.7,
+      "n_days": 341
+    },
+    {
+      "month": 2,
+      "mean_daily_max_c": 35.1,
+      "p90_daily_max_c": 38.7,
+      "mean_relative_humidity_pct": 44.3,
+      "n_days": 311
+    },
+    {
+      "month": 3,
+      "mean_daily_max_c": 37.8,
+      "p90_daily_max_c": 41.1,
+      "mean_relative_humidity_pct": 44.3,
+      "n_days": 341
+    },
+    {
+      "month": 4,
+      "mean_daily_max_c": 39.6,
+      "p90_daily_max_c": 42.3,
+      "mean_relative_humidity_pct": 51.5,
+      "n_days": 330
+    },
+    {
+      "month": 5,
+      "mean_daily_max_c": 37.8,
+      "p90_daily_max_c": 40.4,
+      "mean_relative_humidity_pct": 61.3,
+      "n_days": 341
+    },
+    {
+      "month": 6,
+      "mean_daily_max_c": 32.1,
+      "p90_daily_max_c": 36.0,
+      "mean_relative_humidity_pct": 80.1,
+      "n_days": 330
+    },
+    {
+      "month": 7,
+      "mean_daily_max_c": 28.7,
+      "p90_daily_max_c": 30.0,
+      "mean_relative_humidity_pct": 90.3,
+      "n_days": 341
+    },
+    {
+      "month": 8,
+      "mean_daily_max_c": 28.6,
+      "p90_daily_max_c": 29.7,
+      "mean_relative_humidity_pct": 90.0,
+      "n_days": 341
+    },
+    {
+      "month": 9,
+      "mean_daily_max_c": 29.1,
+      "p90_daily_max_c": 30.7,
+      "mean_relative_humidity_pct": 89.2,
+      "n_days": 330
+    },
+    {
+      "month": 10,
+      "mean_daily_max_c": 31.3,
+      "p90_daily_max_c": 33.3,
+      "mean_relative_humidity_pct": 79.7,
+      "n_days": 341
+    },
+    {
+      "month": 11,
+      "mean_daily_max_c": 31.0,
+      "p90_daily_max_c": 32.9,
+      "mean_relative_humidity_pct": 70.9,
+      "n_days": 330
+    },
+    {
+      "month": 12,
+      "mean_daily_max_c": 30.6,
+      "p90_daily_max_c": 33.0,
+      "mean_relative_humidity_pct": 64.4,
+      "n_days": 341
+    }
+  ]
+}
